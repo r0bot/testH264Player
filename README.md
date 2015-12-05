@@ -1,3 +1,13 @@
+# Setup
+Note the new setup script name for Node.js v0.12
+curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+
+Then install with:
+sudo apt-get install -y nodejs
+
+
+
+
 # Motivation
 
 This is a very simple h264 video player (that can run on live stream) for your browser.
