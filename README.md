@@ -1,9 +1,9 @@
 # Setup
 Note the new setup script name for Node.js v0.12
-curl -sL https://deb.nodesource.com/setup_0.12 | sudo bash -
+curl -sLS https://apt.adafruit.com/add | sudo bash
 
 Then install with:
-sudo apt-get install -y nodejs
+sudo apt-get install -y node
 
 
 
