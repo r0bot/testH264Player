@@ -21,4 +21,4 @@ app.use(express.static(__dirname + '/public'));
 var server  = http.createServer(app);
 var silence = new WebStreamerServer(server);
 
-server.listen(8080);
+server.listen(3310);
